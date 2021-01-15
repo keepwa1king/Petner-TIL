@@ -6,3 +6,6 @@
 
 3. ctrl + cmd + W 키로 Youtube Widget of the week 재생 목록으로 이동하는 단축키
     - 단축키 입력 시 크롬으로 유튜브 페이지가 열리며 재생 목록의 제일 처음 영상이 재생된다.
+
+4. ctrl + cmd + I 키로 iterm 열기
+    - 단축키 입력 시 iterm
