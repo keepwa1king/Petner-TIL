@@ -8,4 +8,7 @@
     - 단축키 입력 시 크롬으로 유튜브 페이지가 열리며 재생 목록의 제일 처음 영상이 재생된다.
 
 4. ctrl + cmd + I 키로 iterm 열기
-    - 단축키 입력 시 iterm
+    - 단축키 입력 시 iterm이 실행된다.
+
+5. ctrl + cmd + V 키로 Visual Studio Code 열기
+    - 단축 키 입력 시 Visual Studio Code가 실행된다.
