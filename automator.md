@@ -12,3 +12,6 @@
 
 5. ctrl + cmd + V 키로 Visual Studio Code 열기
     - 단축 키 입력 시 Visual Studio Code가 실행된다.
+
+6. 맥북 실행 시 "오늘도 좋은 하루 되세요"라는 음성 재생
+    - 맥북의 전원을 켜면 지정한 문구를 읽어 준다.
