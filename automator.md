@@ -24,3 +24,6 @@
 
 9. ctrl + cmd + G 키로 Github Desktop 열기
     - 단축키 입력 시 깃헙 데스크탑이 실행된다.
+
+10. ctrl + cmd + S 키로 Slack 열기
+    - 단축키 입력 시 슬랙이 실행된다.
