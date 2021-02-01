@@ -39,3 +39,7 @@
 
 14. ctrl + cmd + M 키로 펫트너 mobile의 깃헙 페이지 열기
     - 단축키 입력 시 mobile의 깃헙 페이지가 크롬으로 열린다.
+
+15. ctrl + cmd + E 키로 펫트너 petsitter의 깃헙 페이지 열기
+    - 단축키 입력 시 petsitter의 깃헙 페이지가 크롬으로 열린다.
+    
