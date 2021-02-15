@@ -63,3 +63,6 @@
 
 22. option + cmd + K 키로 카라비너 열기
     - 단축키 입력 시 카라비너가 열린다.
+
+23. ctrl + option + cmd + T 키로 tableplus 열기
+    - 단축키 입력 시 tableplus가 열린다.
