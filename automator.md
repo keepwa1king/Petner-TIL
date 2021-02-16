@@ -66,3 +66,6 @@
 
 23. ctrl + option + cmd + T 키로 tableplus 열기
     - 단축키 입력 시 tableplus가 열린다.
+
+24. option + cmd + I 키로 일러스트레이터 열기
+    - 단축키 입력 시 일러스트레이터가 열린다.
