@@ -81,3 +81,9 @@
 
 28. option + cmd + S 키로 Spectacle 열기
     - 단축키 입력 시 스펙타클이 열린다.
+
+29. option + cmd + C 키로 CLion 열기
+    - 단축키 입력 시 CLion이 열린다.
+
+30. option + cmd + A 키로 After Effects 열기
+    - 단축키 입력 시 After Effects가 열린다.
