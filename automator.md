@@ -87,3 +87,6 @@
 
 30. option + cmd + A 키로 After Effects 열기
     - 단축키 입력 시 After Effects가 열린다.
+
+31. option + cmd + S 키로 시뮬레이터 열기
+    - 단축키 입력 시 시뮬레이터가 열린다.
