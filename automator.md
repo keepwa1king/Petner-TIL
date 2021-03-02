@@ -90,3 +90,9 @@
 
 31. option + cmd + S 키로 시뮬레이터 열기
     - 단축키 입력 시 시뮬레이터가 열린다.
+
+32. option + cmd + G 키로 Giphy Capture 열기
+    - 단축키 입력 시 Giphy Capture가 열린다.
+
+33. ctrl + option + cmd + C 키로 계산기 열기
+    - 단축키 입력 시 계산기가 열린다.
