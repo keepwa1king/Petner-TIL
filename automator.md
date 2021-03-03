@@ -96,3 +96,6 @@
 
 33. ctrl + option + cmd + C 키로 계산기 열기
     - 단축키 입력 시 계산기가 열린다.
+
+34. ctrl + cmd + C 키로 Cisco Webex Meetings 열기
+    - 단축키 입력 시 웹엑스가 열린다.
