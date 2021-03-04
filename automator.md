@@ -99,3 +99,6 @@
 
 34. ctrl + cmd + C 키로 Cisco Webex Meetings 열기
     - 단축키 입력 시 웹엑스가 열린다.
+
+35. ctrl + option + cmd + P 키로 파워포인트 열기
+    - 단축키 입력 시 파워 포인트가 열린다.
