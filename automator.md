@@ -102,3 +102,6 @@
 
 35. ctrl + option + cmd + P 키로 파워포인트 열기
     - 단축키 입력 시 파워 포인트가 열린다.
+
+36. ctrl + option + cmd + W 키로 petner-web 깃헙 열기
+    - 단축키 입력 시 petner-web 깃헙이 열린다.
