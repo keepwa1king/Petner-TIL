@@ -105,3 +105,6 @@
 
 36. ctrl + option + cmd + W 키로 petner-web 깃헙 열기
     - 단축키 입력 시 petner-web 깃헙이 열린다.
+
+37. ctrl + option + cmd + S 키로 로컬 스태프 페이지 열기
+    - 단축키 입력 시 로컬 스태프 페이지가 열린다.
