@@ -4,11 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 
 
-client_id = "ce09b063c495d4ac0b913e029dceb9a5"
-
-Secret_key = "ce09b063c495d4ac0b913e029dceb9a5288bb57ce391293337e754117a0561b261a19cf9"
-
-access_token = "4521d88efad56d2400498add71e36d91_56b2a74c7a47cfb90f0b0f2ba54379ee"
 
 blog_name = "shinyo17"
 
